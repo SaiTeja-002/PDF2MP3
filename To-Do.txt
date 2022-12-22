@@ -1,0 +1,6 @@
+1. Add GUI
+2. Take the pdf name as input from the user
+3. Add voices option in the GUI (make female as the default voice)
+4. Option to select the speed rate
+5. Play a test sentence to show the speed rate selected
+6. Option to save the file in the desired location
