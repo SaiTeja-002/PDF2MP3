@@ -1,6 +1,10 @@
-1. Add GUI
-2. Take the pdf name as input from the user
-3. Add voices option in the GUI (make female as the default voice)
-4. Option to select the speed rate
-5. Play a test sentence to show the speed rate selected
-6. Option to save the file in the desired location
+1. [DONE] Add GUI
+2. [DONE] Take the pdf name as input from the user
+3. [DONE] Add voices option in the GUI (make female as the default voice)
+4. [DONE] Option to select the speed rate
+5. [DONE] Play a test sentence to show the speed rate selected
+6. Option to save the audio file in the desired location
+7. Implement Drag and Drop Feature or the feature to specify the full path and desired MP3 path
+8. Learn how to move entry fields, combo boxes and the buttons
+9. Add a close button at the end of the GUI
+10. Refactor the "pdf2mp3_commandline.py"
